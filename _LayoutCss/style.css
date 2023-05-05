@@ -270,7 +270,14 @@ body{
 .chat-area header .details span{
   font-size: 17px;
   font-weight: 500;
+  color: rgb(0, 0, 0) ;
 }
+
+.chat-area header .details p{
+
+  color: rgb(28, 238, 0) 
+}
+
 
 .chat-box{
   position: relative;
